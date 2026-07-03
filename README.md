@@ -5,7 +5,7 @@ Steps after downloading:
   2. you need stable diffusion cpp: https://github.com/leejet/stable-diffusion.cpp
 
 # Linux:
-(https://youtu.be/vENyZvjF5oY)
+https://www.youtube.com/watch?v=vENyZvjF5oY
 
 **Arch/Manjaro/Cachy:**
 
